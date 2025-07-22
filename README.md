@@ -1,8 +1,8 @@
 # ماشین حساب ساده - Simple Calculator
 
-<div align="center">
-  <img src="screenshot.png" alt="Calculator Preview" width="400">
-</div>
+div align="right">
+  <img src="preview.png" alt="Calculator Preview" width="400" style="margin-bottom: 30px;">
+
 
 یک ماشین حساب ساده و کاربردی که با HTML، CSS و JavaScript ساخته شده است. این پروژه دارای رابط کاربری زیبا و عملکرد کامل برای انجام محاسبات پایه است.
 
