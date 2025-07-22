@@ -1,7 +1,7 @@
 # ماشین حساب ساده - Simple Calculator
 
-  <div style="text-align: right;">
-  <img src="screenshot.png" alt="Calculator Preview" width="400" style="margin-bottom: 30px;">
+ <div align="center">
+  <img src="screenshot.png" alt="Calculator Preview" width="400">
 </div>
 
 
